@@ -1,0 +1,30 @@
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\bin\Debug\net6.0\DataManipulation.deps.json
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\bin\Debug\net6.0\DataManipulation.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\bin\Debug\net6.0\DataManipulation.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\bin\Debug\net6.0\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\bin\Debug\net6.0\Model.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.csproj.AssemblyReference.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.AssemblyInfoInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.AssemblyInfo.cs
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.csproj.CoreCompileInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.csproj.CopyComplete
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\refint\DataManipulation.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\DataManipulation.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Data\obj\Debug\net6.0\ref\DataManipulation.dll
+C:\ATdeCsharp\Data\bin\Debug\net6.0\DataManipulation.deps.json
+C:\ATdeCsharp\Data\bin\Debug\net6.0\DataManipulation.dll
+C:\ATdeCsharp\Data\bin\Debug\net6.0\DataManipulation.pdb
+C:\ATdeCsharp\Data\bin\Debug\net6.0\Model.dll
+C:\ATdeCsharp\Data\bin\Debug\net6.0\Model.pdb
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.csproj.AssemblyReference.cache
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.AssemblyInfoInputs.cache
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.AssemblyInfo.cs
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.csproj.CoreCompileInputs.cache
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.csproj.CopyComplete
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.dll
+C:\ATdeCsharp\Data\obj\Debug\net6.0\refint\DataManipulation.dll
+C:\ATdeCsharp\Data\obj\Debug\net6.0\DataManipulation.pdb
+C:\ATdeCsharp\Data\obj\Debug\net6.0\ref\DataManipulation.dll

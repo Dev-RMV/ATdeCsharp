@@ -1,0 +1,30 @@
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\bin\Debug\net6.0\View.deps.json
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\bin\Debug\net6.0\View.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\bin\Debug\net6.0\View.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\bin\Debug\net6.0\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\bin\Debug\net6.0\Model.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.csproj.AssemblyReference.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.AssemblyInfoInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.AssemblyInfo.cs
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.csproj.CoreCompileInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.csproj.CopyComplete
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\refint\View.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\View.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\View\obj\Debug\net6.0\ref\View.dll
+C:\ATdeCsharp\View\bin\Debug\net6.0\View.deps.json
+C:\ATdeCsharp\View\bin\Debug\net6.0\View.dll
+C:\ATdeCsharp\View\bin\Debug\net6.0\View.pdb
+C:\ATdeCsharp\View\bin\Debug\net6.0\Model.dll
+C:\ATdeCsharp\View\bin\Debug\net6.0\Model.pdb
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.csproj.AssemblyReference.cache
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.AssemblyInfoInputs.cache
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.AssemblyInfo.cs
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.csproj.CoreCompileInputs.cache
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.csproj.CopyComplete
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.dll
+C:\ATdeCsharp\View\obj\Debug\net6.0\refint\View.dll
+C:\ATdeCsharp\View\obj\Debug\net6.0\View.pdb
+C:\ATdeCsharp\View\obj\Debug\net6.0\ref\View.dll

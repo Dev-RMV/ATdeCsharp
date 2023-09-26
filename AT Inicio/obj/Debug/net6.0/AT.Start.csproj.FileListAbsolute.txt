@@ -1,0 +1,48 @@
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.csproj.AssemblyReference.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.AssemblyInfoInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.AssemblyInfo.cs
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.csproj.CoreCompileInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\AT.Start.exe
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\AT.Start.deps.json
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\AT.Start.runtimeconfig.json
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\AT.Start.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\AT.Start.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\Controller.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\DataManipulation.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\View.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\Controller.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\Model.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\View.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\bin\Debug\net6.0\DataManipulation.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.csproj.CopyComplete
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\refint\AT.Start.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\AT.Start.genruntimeconfig.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\AT Inicio\obj\Debug\net6.0\ref\AT.Start.dll
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\AT.Start.exe
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\AT.Start.deps.json
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\AT.Start.runtimeconfig.json
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\AT.Start.dll
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\AT.Start.pdb
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\Controller.dll
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\DataManipulation.dll
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\Model.dll
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\View.dll
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\Controller.pdb
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\Model.pdb
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\View.pdb
+C:\ATdeCsharp\AT Inicio\bin\Debug\net6.0\DataManipulation.pdb
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.csproj.AssemblyReference.cache
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.AssemblyInfoInputs.cache
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.AssemblyInfo.cs
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.csproj.CoreCompileInputs.cache
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.csproj.CopyComplete
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.dll
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\refint\AT.Start.dll
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.pdb
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\AT.Start.genruntimeconfig.cache
+C:\ATdeCsharp\AT Inicio\obj\Debug\net6.0\ref\AT.Start.dll

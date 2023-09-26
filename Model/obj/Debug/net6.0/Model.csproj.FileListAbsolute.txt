@@ -1,0 +1,22 @@
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\bin\Debug\net6.0\Model.deps.json
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\bin\Debug\net6.0\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\bin\Debug\net6.0\Model.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\refint\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\Model.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Model\obj\Debug\net6.0\ref\Model.dll
+C:\ATdeCsharp\Model\bin\Debug\net6.0\Model.deps.json
+C:\ATdeCsharp\Model\bin\Debug\net6.0\Model.dll
+C:\ATdeCsharp\Model\bin\Debug\net6.0\Model.pdb
+C:\ATdeCsharp\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATdeCsharp\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+C:\ATdeCsharp\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+C:\ATdeCsharp\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+C:\ATdeCsharp\Model\obj\Debug\net6.0\Model.dll
+C:\ATdeCsharp\Model\obj\Debug\net6.0\refint\Model.dll
+C:\ATdeCsharp\Model\obj\Debug\net6.0\Model.pdb
+C:\ATdeCsharp\Model\obj\Debug\net6.0\ref\Model.dll

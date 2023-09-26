@@ -1,0 +1,333 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\AT Inicio\\AT Inicio.csproj": {}
+  },
+  "projects": {
+    "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\AT Inicio\\AT Inicio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\AT Inicio\\AT Inicio.csproj",
+        "projectName": "AT Inicio",
+        "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\AT Inicio\\AT Inicio.csproj",
+        "packagesPath": "C:\\Users\\rmvor\\.nuget\\packages\\",
+        "outputPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\AT Inicio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmvor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Controller\\Controller.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Controller\\Controller.csproj"
+              },
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj"
+              },
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Controller\\Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Controller\\Controller.csproj",
+        "projectName": "Controller",
+        "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Controller\\Controller.csproj",
+        "packagesPath": "C:\\Users\\rmvor\\.nuget\\packages\\",
+        "outputPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmvor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Data\\Data.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Data\\Data.csproj"
+              },
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\rmvor\\.nuget\\packages\\",
+        "outputPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmvor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj",
+        "projectName": "Model",
+        "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj",
+        "packagesPath": "C:\\Users\\rmvor\\.nuget\\packages\\",
+        "outputPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmvor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj",
+        "projectName": "View",
+        "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\View.csproj",
+        "packagesPath": "C:\\Users\\rmvor\\.nuget\\packages\\",
+        "outputPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\View\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\rmvor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj": {
+                "projectPath": "C:\\INFNET_WORKSPACE\\Bloco3_Desenvolvimento_back_end\\visual_studio_workspace\\AT de Fundamentos de C#\\Model\\Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\Controller.deps.json
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\Controller.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\Controller.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\Model.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\View.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\View.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\Model.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.csproj.CopyComplete
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\refint\Controller.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\Controller.pdb
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\obj\Debug\net6.0\ref\Controller.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\DataManipulation.dll
+C:\INFNET_WORKSPACE\Bloco3_Desenvolvimento_back_end\visual_studio_workspace\AT de Fundamentos de C#\Controller\bin\Debug\net6.0\DataManipulation.pdb
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\Controller.deps.json
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\Controller.dll
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\Controller.pdb
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\DataManipulation.dll
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\Model.dll
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\View.dll
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\DataManipulation.pdb
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\View.pdb
+C:\ATdeCsharp\Controller\bin\Debug\net6.0\Model.pdb
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.csproj.CopyComplete
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.dll
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\refint\Controller.dll
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\Controller.pdb
+C:\ATdeCsharp\Controller\obj\Debug\net6.0\ref\Controller.dll
