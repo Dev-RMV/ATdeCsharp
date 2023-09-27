@@ -87,7 +87,12 @@ namespace DataManipulation
                     };
                 }
             }
-            return results;
+            List<Game> resultsTemp = new();
+            foreach (Game item in results.Distinct())
+            {
+                resultsTemp.Add(item);
+            }
+            return resultsTemp;
         }
 
         /*

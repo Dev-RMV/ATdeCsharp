@@ -11,17 +11,26 @@ namespace Controller
         private int _userOption = 0;
         private readonly MenuView _menuView = new();
         private readonly OperationResultView operationResultView = new();
+        private bool _appJustLoaded = true;
+        private readonly StartView _startView = new();
         public void Run()
         {
             do
             {
                 try
                 {
+                    
                     if (_workWithDisk) _dataManipulatorObjectInUse = _diskDataManipulatorObject;
                     else _dataManipulatorObjectInUse = _memoryDataManipulatorObject;
+
+                    if (_appJustLoaded)
+                    {
+                        _startView.Run(_diskDataManipulatorObject.GetList());
+                        _appJustLoaded = false;
+                    }
                     _menuView.ShowMainMenu(_workWithDisk,_dataManipulatorObjectInUse.GetList().Count);
                     _userOption = int.Parse(Console.ReadLine());
-
+                    
                     if (_userOption < 1 || _userOption > 7)
                     {
                         throw new Exception("Opção inválida. Foi digitado algum número fora do intervalo de inteiros I=[1,7]");
