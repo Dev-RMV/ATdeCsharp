@@ -12,7 +12,7 @@ namespace View
             _userInputString = Console.ReadLine();
            return _userInputString.ToLower();
         }
-        public void listResults(List<Game> results)
+        public int listResults(List<Game> results)
         {
             Console.Clear();            
             Console.WriteLine("Foram encontrados um total de "+results.Count+" resultado(s) da pesquisa por: " + _userInputString);
@@ -28,7 +28,8 @@ namespace View
                 Console.WriteLine($"Dias desde o lançamento: {item.AgeInDays}");
                 Console.WriteLine($"Descrição: {item.Description}");
                 Console.WriteLine("---------------------------------------------");
-            }            
+            }    
+            return results.Count;
         }
     }
 }

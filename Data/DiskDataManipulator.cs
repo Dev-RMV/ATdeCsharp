@@ -90,11 +90,18 @@ namespace DataManipulation
             return results;
         }
 
+        /*
+         * O Update na realidade cria um novo arquivo e deleta o antigo
+         * caso os códigos sejam diferentes. Sobrescrever sempre não funcionaria
+         * pois quando o arquivo é gerado, ele é nomeado com o gameCode.
+         * Para resolver isso, eu teria que renomear o arquivo que sofre
+         * Update, coisa que eu não parei para pesquisar sobre.
+        */
         public bool Update(Game updates, int gameCode)
         {
             if (!dir.Exists) dir.Create();
             string fileNameOld = $@"{dir}{Path.DirectorySeparatorChar}{gameCode}.game";
-            if (File.Exists(fileNameOld)==false) return false;
+            if (File.Exists(fileNameOld) == false) return false;
             string fileNameNew = $@"{dir}{Path.DirectorySeparatorChar}{updates.GameCode}.game";
             using (StreamWriter sw = File.CreateText(fileNameNew))
             {
@@ -105,8 +112,8 @@ namespace DataManipulation
                 sw.WriteLine(updates.Description);
                 sw.WriteLine(updates.HaveExpansion);
             }
-            File.Delete(fileNameOld);
-            return true;            
+            if (fileNameOld != fileNameNew) File.Delete(fileNameOld);
+            return true;
         }
 
         public bool GameCodeIsUsed(int gameCode)

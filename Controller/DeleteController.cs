@@ -6,34 +6,17 @@ namespace Controller
 {
     internal class DeleteController
     {
-        private DeleteView _deleteView = new DeleteView();
+        private DeleteView _deleteView = new();
+        private ReadView _readView = new();
         internal bool Run(IDataManipulator dataManipulatorObjectInUse)
         {
             if (dataManipulatorObjectInUse.GetList().Count == 0) throw new Exception("A lista está vazia.");
-            
-            _deleteView.AskGameCode();
-            string userInput = Console.ReadLine();
-            try
-            {
-                int gameCode = int.Parse(userInput);                
-                if(dataManipulatorObjectInUse.Delete(gameCode) != true) throw new Exception("Erro ao excluir.");
-            }
-            catch (FormatException)
-            {
-                if (userInput.ToLower() == "listar")
-                {
-                    List<Game> templist = dataManipulatorObjectInUse.GetList();
-                    foreach (Game item in templist)
-                    {
-                        _deleteView.ListAllGames(item);
-                        _deleteView.AskGameCodeAfterListing();
-                        int gameCode = int.Parse(Console.ReadLine());                        
-                    }
-                    return true;
-                }
-                else throw new Exception("Entrada Inválida");
-            }
-            return true;
+            string userInput = _readView.CollectSearchInput();
+            int numberOfResults = _readView.listResults(dataManipulatorObjectInUse.Search(userInput));
+            if (numberOfResults == 0) throw new Exception("Não há dados");
+            userInput = _deleteView.ConfirmDelete(dataManipulatorObjectInUse.GetList());
+            if (dataManipulatorObjectInUse.Delete(int.Parse(userInput))) return true;
+            return false;
         }
     }
 }
