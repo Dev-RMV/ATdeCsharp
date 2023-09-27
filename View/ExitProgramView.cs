@@ -7,6 +7,7 @@
             Console.Clear();
             Console.WriteLine("Obrigado por usar o programa :)\n");
             Console.WriteLine("-RMV");
+            Console.ReadKey();
         }
     }
 }
