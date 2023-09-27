@@ -1,7 +1,6 @@
-﻿using DataManipulation;
-using Model;
+﻿using Model;
 
-namespace Data
+namespace DataManipulation
 {
     public class MemoryDataManipulator : IDataManipulator
     {
@@ -35,7 +34,7 @@ namespace Data
             catch { return false; }
         }
 
-        public bool gameCodeIsUsed(int gameCode)
+        public bool GameCodeIsUsed(int gameCode)
         {
             foreach (var item in _list)
             {

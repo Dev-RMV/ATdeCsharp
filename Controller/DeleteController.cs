@@ -1,4 +1,4 @@
-﻿using Data;
+﻿using DataManipulation;
 using Model;
 using View;
 
@@ -7,25 +7,25 @@ namespace Controller
     internal class DeleteController
     {
         private DeleteView _deleteView = new DeleteView();
-        internal bool Run(MemoryDataManipulator memoryDataManipulatorObject)
+        internal bool Run(IDataManipulator dataManipulatorObjectInUse)
         {
-            if (memoryDataManipulatorObject.GetList().Count == 0) throw new Exception("A lista está vazia.");
+            if (dataManipulatorObjectInUse.GetList().Count == 0) throw new Exception("A lista está vazia.");
             
             _deleteView.AskGameCode();
             string userInput = Console.ReadLine();
             try
             {
                 int gameCode = int.Parse(userInput);                
-                if(memoryDataManipulatorObject.Delete(gameCode) != true) throw new Exception("Erro ao excluir.");
+                if(dataManipulatorObjectInUse.Delete(gameCode) != true) throw new Exception("Erro ao excluir.");
             }
             catch (FormatException)
             {
                 if (userInput.ToLower() == "listar")
                 {
-                    List<Game> templist = memoryDataManipulatorObject.GetList();
+                    List<Game> templist = dataManipulatorObjectInUse.GetList();
                     foreach (Game item in templist)
                     {
-                        _deleteView.listGameCodeAndName(item.GameCode, item.Name);
+                        _deleteView.ListAllGames(item);
                         _deleteView.AskGameCodeAfterListing();
                         int gameCode = int.Parse(Console.ReadLine());                        
                     }

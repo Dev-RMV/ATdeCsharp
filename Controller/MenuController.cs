@@ -1,10 +1,13 @@
-﻿using Data;
+﻿using DataManipulation;
 using View;
 namespace Controller
 {
     public class MenuController
     {
+        private IDataManipulator _dataManipulatorObjectInUse;
         private MemoryDataManipulator _memoryDataManipulatorObject = new();
+        private DiskDataManipulator _diskDataManipulatorObject = new();
+        private bool _workWithDisk = true;
         private int _userOption = 0;
         private readonly MenuView _menuView = new();
         private readonly OperationResultView operationResultView = new();
@@ -14,53 +17,47 @@ namespace Controller
             {
                 try
                 {
-                    _menuView.ShowMainMenu();
+                    if (_workWithDisk) _dataManipulatorObjectInUse = _diskDataManipulatorObject;
+                    else _dataManipulatorObjectInUse = _memoryDataManipulatorObject;
+                    _menuView.ShowMainMenu(_workWithDisk,_dataManipulatorObjectInUse.GetList().Count);
                     _userOption = int.Parse(Console.ReadLine());
-                    if (_userOption < 1 || _userOption > 6)
+
+                    if (_userOption < 1 || _userOption > 7)
                     {
-                        throw new Exception("Opção inválida. Foi digitado algum número fora do intervalo de inteiros I=[1,5]");
+                        throw new Exception("Opção inválida. Foi digitado algum número fora do intervalo de inteiros I=[1,7]");
                     }
                     else if (_userOption == 1)
                     {
                         //incluir
                         CreateController createController = new();
-                        operationResultView.Show(createController.Run(_memoryDataManipulatorObject));
+                        operationResultView.Show(createController.Run(_dataManipulatorObjectInUse));
                     }
                     else if (_userOption == 2)
                     {
                         //alterar
                         UpdateController updateController = new();
-                        operationResultView.Show(updateController.Run(_memoryDataManipulatorObject));
+                        operationResultView.Show(updateController.Run(_dataManipulatorObjectInUse));
                     }
                     else if (_userOption == 3)
                     {
                         //excluir                        
                         DeleteController deleteController = new();
-                        operationResultView.Show(deleteController.Run(_memoryDataManipulatorObject));
+                        operationResultView.Show(deleteController.Run(_dataManipulatorObjectInUse));
                     }
                     else if (_userOption == 4)
                     {
                         //Search
                         ReadController readController = new();
-                        operationResultView.Show(readController.Run(_memoryDataManipulatorObject));
+                        operationResultView.Show(readController.Run(_dataManipulatorObjectInUse));
                     }
                     else if (_userOption == 5)
                     {
-                        foreach (var item in _memoryDataManipulatorObject.GetList())
-                        {
-                            Console.WriteLine("\n---------------------------------------------");
-                            Console.WriteLine($"Código: {item.GameCode}");
-                            Console.WriteLine($"Nome: {item.Name}");
-                            Console.WriteLine($"Data de Lançamento: {item.ReleaseDate.Day}/{item.ReleaseDate.Month}/{item.ReleaseDate.Year}");
-                            Console.WriteLine($"Gênero: {item.Genre}");
-                            Console.Write($"Possui Expansão: ");
-                            if (item.HaveExpansion) Console.WriteLine("Sim"); else Console.WriteLine("Não");
-                            Console.WriteLine($"Dias desde o lançamento: {item.AgeInDays}");
-                            Console.WriteLine($"Descrição: {item.Description}");
-                            Console.WriteLine("---------------------------------------------");
-                        }
-                        Console.WriteLine("Pressione 1 tecla qq...");
-                        Console.ReadKey();
+                        ListEverythingView listEverythingView = new();
+                        listEverythingView.Show(_dataManipulatorObjectInUse.GetList());
+                    }
+                    else if (_userOption == 6)
+                    {
+                        _workWithDisk = !_workWithDisk;
                     }
                 }
                 catch (Exception ex)
@@ -68,7 +65,7 @@ namespace Controller
                     Console.WriteLine($"\n{ex.Message}\nPressione qualquer tecla...");
                     Console.ReadKey();
                 }
-            } while (_userOption != 6);
+            } while (_userOption != 7);
             ExitProgramView exitProgramView = new();
             exitProgramView.EndOfProgram();
         }

@@ -1,6 +1,4 @@
-﻿
-
-namespace View
+﻿namespace View
 {
     public class ExitProgramView
     {

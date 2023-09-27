@@ -1,4 +1,4 @@
-﻿
+﻿using Model;
 
 namespace View
 {
@@ -12,11 +12,15 @@ namespace View
             Console.Write("Resposta: ");
         }
 
-        public void listGameCodeAndName(int gameCode, string name)
+        public void ListAllGames(Game game)
         {
             Console.WriteLine("=================================");
-            Console.WriteLine("Código: " + gameCode);
-            Console.WriteLine("Nome: " + name);
+            Console.WriteLine("Código: " + game.GameCode);
+            Console.WriteLine("Nome: " + game.Name);
+            Console.WriteLine("Gênero: " + game.Genre);
+            Console.WriteLine("Data de lançamento: " + game.ReleaseDate);
+            Console.WriteLine("Idade: " + game.AgeInDays + "dias");
+            Console.WriteLine("Descrição: " + game.Description);
             Console.WriteLine("=================================");
         }
 
