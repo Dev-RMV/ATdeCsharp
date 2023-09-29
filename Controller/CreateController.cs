@@ -1,5 +1,5 @@
 ﻿using DataManipulation;
-//using Model;
+using Model;
 using View;
 
 namespace Controller
@@ -10,11 +10,10 @@ namespace Controller
         internal bool Run(IDataManipulator dataManipulatorObjectInUse)
         {
             _createView = new CreateView();
-            //Game tempGame = _createView.CollectAllGameDataFromUser();
-            if (dataManipulatorObjectInUse.GameCodeIsUsed(_createView.CollectAllGameDataFromUser().GameCode) == true) throw new Exception("Código indisponível (já consta nos dados) - By CreateController");
-            if (dataManipulatorObjectInUse.Create(_createView.CollectAllGameDataFromUser()) != true || _createView.CollectAllGameDataFromUser() == null) throw new Exception("Erro ao incluir");
+            Game tempGame = _createView.CollectAllGameDataFromUser();//Removendo essa atribuição é possivel tirar o USING MODEL (alterando o código de acordo)
+            if (dataManipulatorObjectInUse.GameCodeIsUsed(tempGame.GameCode) == true) throw new Exception("Código indisponível (já consta nos dados) - By CreateController");
+            if (dataManipulatorObjectInUse.Create(tempGame) != true || tempGame == null) throw new Exception("Erro ao incluir");
             return true;
-
         }
     }
 }
