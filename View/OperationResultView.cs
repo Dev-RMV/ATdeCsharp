@@ -11,7 +11,7 @@ namespace View
             }
             else
             {
-                Console.WriteLine("\nOperação bem sucedida! Pressione qualquer tecla para continuar...");
+                Console.WriteLine("\nOperação FALHOU! Pressione qualquer tecla para continuar...");
             }
             Console.ReadKey();
         }
